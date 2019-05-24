@@ -1,5 +1,5 @@
-@-ms-viewport{
-	width: device-width;
+.wrapper{
+	width: 100vw;
 }
 
 @media only screen and (max-width: 375px) {
